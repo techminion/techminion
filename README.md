@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm techminion</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techminion&label=Profile%20views&color=0e75b6&style=flat" alt="techminion" /> </p>
-
 - 🔭 I’m currently working in **Amazon as DevOps Engg**
 
 - 🌱 I’m currently learning **Ruby and VueJs**
