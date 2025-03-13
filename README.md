@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm techminion</h1>
+<h1 align="center">Hi 👋, I'm Amey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working in **Amazon as DevOps Engg**
+- 🔭 I’m currently working as **FreeLancer**
 
 - 🌱 I’m currently learning **Ruby and VueJs**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **frontend, backend and devops related stuff**
 
-- 📫 How to reach me **techminion@homepi.one**
+- 📫 How to reach me **amey@khaire.dev**
 
 <p align="left">
 </p>
